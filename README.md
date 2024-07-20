@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Farman</h1>
+<h1 align="center">Hi, I'm Camal</h1>
 <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" width="100%"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
